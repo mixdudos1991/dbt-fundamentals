@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: jaffle_shop
+    database: macro-nuance-338217
+    schema: jaffle_shop
+    tables:
+        - name: customers
+        - name: orders
