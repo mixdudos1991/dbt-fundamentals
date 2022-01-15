@@ -2,6 +2,7 @@ version: 2
 
 sources:
   - name: jaffle_shop
+    description: A clone of Postgres app db.
     database: macro-nuance-338217
     schema: jaffle_shop
     tables:
